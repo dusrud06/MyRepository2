@@ -5,5 +5,8 @@ public class A {
 		
 		System.out.println("Hello Master");
 		System.out.println("Change A");
+		B b = new B();
+		b.HelloB();
+		
 	}
 }
